@@ -59,7 +59,7 @@ BEATRIZ  | Normal |    6     |  42
 CLÁUDIO  | Vegan |     2      | 30
 
 **Statistics generated:**
-```java
+```
 Percentage of sales by type of cake
 => Normal: 55%, Vegan 45%
 
