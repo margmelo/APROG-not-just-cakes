@@ -1,5 +1,7 @@
 # APROG | NOT JUST CAKES | JAVA GROUP PROJECT
-Group work held in the first semester of the degree in systems engineering of ISEP, within the scope of the curricular unit of **Algoritmia and Programming**. This project was developed in two iterations and the utterance was as follows.
+Group work held in the first semester of the degree in systems engineering of ISEP, within the scope of the curricular unit of **Algoritmia and Programming**. Final grade: 15
+
+This project was developed in two iterations and the utterance was as follows.
 
 -------------
 ## first iteration
