@@ -34,32 +34,32 @@ Consider using the following data structures to store the information:
 ### Example of input and the expected output data
 
 **Input data:**
-  ``` 
-SELLER    TYPE    QUANTITY  PRICE
-ANA       Normal     8       80
-CLÁUDIO   Vegan      2       28
-CLÁUDIO   Vegan      2       20
-ANA       Normal     8       72
-BEATRIZ   Normal     10      50
-CLÁUDIO   Normal     7       49
-ANA       Vegan      2       30
-ANA       Normal     10      80
-CLÁUDIO   Vegan      1       12
-ANA       Normal     5       35
-CLÁUDIO   Normal     4       36
-BEATRIZ   Normal     5       45
-CLÁUDIO   Vegan      1       13
-BEATRIZ   Normal     5       45
-ANA       Vegan      1       10
-BEATRIZ   Vegan      1       15
-CLÁUDIO   Vegan      2       22
-ANA       Normal     8       72
-BEATRIZ   Normal     6       42
-CLÁUDIO   Vegan      2       30
-```
+
+SELLER |   TYPE  |  QUANTITY | PRICE
+-------|--------|---------|-----------
+ANA       |Normal   |  8   |    80
+CLÁUDIO  | Vegan      |2    |   28
+CLÁUDIO  | Vegan     | 2     |  20
+ANA      | Normal   |  8 |      72
+BEATRIZ  | Normal  |   10 |     50
+CLÁUDIO  | Normal |    7   |    49
+ANA      | Vegan |     2    |   30
+ANA      | Normal     10 |     80
+CLÁUDIO  | Vegan    |  1  |     12
+ANA      | Normal  |   5   |    35
+CLÁUDIO  | Normal |    4    |   36
+BEATRIZ  | Normal  |   5     |  45
+CLÁUDIO  | Vegan  |    1      | 13
+BEATRIZ  | Normal |    5       | 45
+ANA      | Vegan    |  1 |      10
+BEATRIZ  | Vegan    |  1  |     15
+CLÁUDIO  | Vegan    |  2   |    22
+ANA      | Normal  |   8    |   72
+BEATRIZ  | Normal |    6     |  42
+CLÁUDIO  | Vegan |     2      | 30
 
 **Statistics generated:**
-```
+```java
 Percentage of sales by type of cake
 => Normal: 55%, Vegan 45%
 
